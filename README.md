@@ -6,21 +6,21 @@ This program simulates below algorithms,
 - Bubble Sort
 - Insertion Sort
 
-### LIMITATIONS
-
+LIMITATIONS
+----------------------
 1.  This Algorithm Simulator was built using Java in NetBeans IDE. Older versions of Java might not support the program, Please use an updated version of Java to run the program.
 2.  Can do sorting for only integer numbers.
 3.  Can't do sorting with negative numbers.
 4.  Can provide up to 12 numbers.
 5.  Can have maximum of 4 digits for each integer
 
-### REFERENCES
-
+REFERENCES
+----------------------
 1.  http://courses.cs.vt.edu/csonline/Algorithms/Lessons/InsertionSort/index.html
 2.  http://visualgo.net/sorting
 3.  http://stackoverflow.com/questions/16088994/sorting-an-array-of-int-using-bubblesort
 4.  http://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 
 
-Please refer the [document](DAA_Assignment.pdf) for more details on this project (screen shots of the project etc). 
-----------------------
+**** refer the [document](DAA_Assignment.pdf) for more details on this project (screen shots of the project etc). ****
+
