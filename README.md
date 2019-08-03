@@ -22,5 +22,5 @@ REFERENCES
 4.  http://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 
 
-** refer the [document](DAA_Assignment.pdf) for more details on this project (screen shots of the project etc). **
+**Please refer the [document](DAA_Assignment.pdf) for more details on this project (screen shots of the project etc). **
 
