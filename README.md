@@ -16,8 +16,8 @@ This program simulates below algorithms,
 
 ### REFERENCES
 
-1.  http://courses.cs.vt.edu/csonline/Algorithms/Lessons/InsertionSort/index.html
-2.  http://visualgo.net/sorting
+[1.]  http://courses.cs.vt.edu/csonline/Algorithms/Lessons/InsertionSort/index.html
+[2.]  http://visualgo.net/sorting
 3.  http://stackoverflow.com/questions/16088994/sorting-an-array-of-int-using-bubblesort
 4.  http://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 
