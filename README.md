@@ -16,10 +16,11 @@ This program simulates below algorithms,
 
 ### REFERENCES
 
-1.  [http://courses.cs.vt.edu/csonline/Algorithms/Lessons/InsertionSort/index.html]
-2.  [http://visualgo.net/sorting]
-3.  [http://stackoverflow.com/questions/16088994/sorting-an-array-of-int-using-bubblesort]
-4.  [http://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm]
+1.  http://courses.cs.vt.edu/csonline/Algorithms/Lessons/InsertionSort/index.html
+2.  http://visualgo.net/sorting
+3.  http://stackoverflow.com/questions/16088994/sorting-an-array-of-int-using-bubblesort
+4.  http://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 
 
 Please refer the [document](DAA_Assignment.pdf) for more details on this project (screen shots of the project etc). 
+----------------------
