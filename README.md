@@ -22,3 +22,4 @@ This program simulates below algorithms,
 4.  http://www.tutorialspoint.com/data_structures_algorithms/sorting_algorithms.htm
 
 
+Please refer the [document](DAA_Assignment.pdf) for more details on this project (screen shots of the project etc). 
